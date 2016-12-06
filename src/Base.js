@@ -1,6 +1,4 @@
-
 import React from 'react'
-import PureRenderMixin from 'react-addons-pure-render-mixin'
 import assign from 'object-assign'
 import margins from './util/margins'
 import padding from './util/padding'
@@ -157,4 +155,3 @@ class Base extends React.Component {
 }
 
 export default Base
-
